@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673788432 source:c:\users\mkara\desktop\projects\shoppingcart\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
